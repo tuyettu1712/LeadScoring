@@ -1,1 +1,4 @@
 Print('This is the leadscoring project')
+a=1
+b=2
+sum(a,b) = c
