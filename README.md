@@ -121,3 +121,5 @@ By implementing this lead scoring model, X Education can:
 *   **Personalize Customer Engagement:** Tailor communication and engagement strategies based on lead scores and associated characteristics.
 
 This model provides a valuable tool for X Education to enhance its lead conversion process and drive business growth.
+
+Project done by @tuyettu1712 and @Anigunda
